@@ -7,7 +7,7 @@ This script allows you to generate PDFs from HTML templates and a CSV file conta
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/TrilanCo/BadgeMaker.git
+   git clone https://github.com/0x1Ry4n/BadgeMaker.git
 
 2. It is recommended to use a virtual environment to install the dependencies. Create a virtual environment using your preferred tool (e.g., virtualenv, conda), then activate the virtual environment.
 
